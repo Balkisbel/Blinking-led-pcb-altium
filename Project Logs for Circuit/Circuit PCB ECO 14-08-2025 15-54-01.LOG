@@ -1,0 +1,83 @@
+Added Component: Designator=C1(CAPR5-4X5)
+Add component (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPR5-4X5)
+Add component (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(0603_LED)
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "160-1447-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C191KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "1.60mm L x 0.80mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D2(0603_LED)
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "160-1447-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C191KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "1.60mm L x 0.80mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=J1(JST_2_PIN)
+Added Component: Designator=Q1(SOT23_N)
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "MMBT4401LT1GOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MMBT4401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SOT-23-3 (TO-236)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23-3 (TO-236)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MMBT4401"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT23_N)
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "MMBT4401LT1GOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MMBT4401LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SOT-23-3 (TO-236)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23-3 (TO-236)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MMBT4401"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0603)
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603)
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603)
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603)
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=9V Pin=J1-1
+Added Pin To Net: NetName=9V Pin=R1-1
+Added Pin To Net: NetName=9V Pin=R2-1
+Added Pin To Net: NetName=9V Pin=R3-1
+Added Pin To Net: NetName=9V Pin=R4-1
+Added Net: Name=9V
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=Q2-3
+Added Pin To Net: NetName=NetC1_2 Pin=R2-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=D2-2
+Added Pin To Net: NetName=NetC2_1 Pin=Q2-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=Q1-3
+Added Pin To Net: NetName=NetC2_2 Pin=R3-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R4-2
+Added Net: Name=NetD2_1
